@@ -1,0 +1,535 @@
+history | sort | less
+history | sort -less
+history | sort
+history | less
+ls -h
+less -h
+history
+grep -r codefellows ~
+man grep
+grep -r codefellows
+grep man
+grep codefellows
+~
+/
+ls
+cd "Nik Software"
+cd /
+cd Nik \Software
+cd Nik Software
+ll
+ls -1
+man ls
+ls -e
+ls -tc
+ls -c
+ls -@
+ls -lr
+ls -rt
+ls -r
+ls -lt
+ls -l
+ls -t
+pwd
+git --version
+echo $PATH
+echo $EDITOR
+echo $ED
+subl ~
+brew doctor
+ls -G
+curl fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'finddeniseonline@gmail.com'
+git config --global user.name 'Denise Barnes'
+brew install git
+git version
+echo $PATH 
+subl /etc/paths
+ls -man
+ls man
+brew update
+uname
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions 
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+git push origin master
+git commit -a -m "updated files"
+git add Tortoise_and_hare_game
+git push origin mast
+git commit -a -m "adding updated Tortoise and hare game files"
+git commit -a -m "adding Tortoise and hare game files"
+cd final
+mv Tortoise_and_hare_game /final
+cp Tortoise_and_hare_game /final
+cp Tortoise_and_hare_game /final/
+cd codefellows
+cd Desktop
+git commit -a -m "html outline assignment"
+git add .
+git ini .
+cd html_outline
+mv html_outline README.rtf ./html_outline/
+mv /html_outline README.rtf /html_outline
+man mv
+mv man
+mv html_outline README.rtf /html_outline
+mv html_outline README.rtf > html_outline
+mv html_outline README.rtf html_outline
+mv html_outline final
+mkdir html_outline
+cat README.md
+ls final
+ls -a
+cd Applications
+cd ~
+open sublime
+open html-and-css-code-samples.zip
+ls less
+ls -l less
+cd Downloads
+git pull origin master
+git commit -a -m "Number Guessing Game"
+git init .
+git config -l
+git remote add origin https://github.com/finddeniseonline/codefellows.git
+cat guessGame.html
+mv test.html guessGame.html
+rm guessGame.html
+mv test.html ./final/
+mv test.html /final/
+cp test.html /final
+cp test.html > ~/final
+cp test.html > ./final
+mv test.html > ./final/guessGame.html
+cat test.html
+mkdir final
+cd ~/Desktop
+cd ~Desktop
+~/.ssh/id_rsa
+ssh-add -l
+eval "$(ssh-agent -s)"
+ssh -T git@github.com
+ssh -vT git@github.com
+ssh -T git@github
+pbcopy < ~/.ssh/id_rsa.pub
+ssh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/20232_rsa
+ssh-keygen -t rsa -C "finddeniseonline@gmail.com"
+ls -al ~/.ssh
+git config --global user.email "finddeniseonline@gmail.com"
+git config --global user.name "Denise Barnes"
+git config --user.name "Denise Barnes"
+fg
+sleep 5 &
+ps aux | grep 'firefox'
+man ps
+ps [aux]
+top
+ls -l | less
+ls -l /etc | less
+cd /etc
+egrep 'or|is|and' touch2
+egrep '[aeiou]{2,}' touch2
+nl -s "." touch2
+nl touch2
+sort touch2
+head -3 touch2
+head touch2
+cd linuxtutorialwork
+ls -l test2
+ls -lh *.???
+ls -lh *.*
+ls -lh /home/*/.bash_history
+ls -lh */.bash_history
+.bash_history
+file *
+file /owner/Desktop*
+file /owner/Desktop
+file /Desktop/*
+cd ..
+ls *[0-9]*
+ls ?e*
+ls t*
+vi touch2
+less touch2
+cat touch2
+cat test2
+touch test2
+vi
+cat test
+vi test
+touch test
+rm -rf testing
+rm testing
+cd testing
+rm foo3
+rm /Desktop/foo3
+cd backups
+mv foo2 backups/foo3
+mkdir backups
+cd ../Desktop
+cd ./Desktop
+cd /Desktop
+cd foo2
+cp -r foo foo2
+cp foo foo2
+mkdir foo2
+mkdir foo
+mddir foo
+man rmdir
+rmdir /testing
+rmdir /Desktop/testing
+rmdir testing
+mkdir -pv testing/foo/bar
+mkdir -pv linuxtutorialwork/foo/bar2
+mkdir -pv linuxtutorialwork/foo/bar
+cd .
+mkdir -p linuxtutorialwork/foo/bar
+mkdir linuxtutorialwork
+cd /var/log
+cd ../../
+ls /Users/owner/Desktop
+ls /Users/ownser/Desktop
+ls /Users/owner/Documents
+ls /Documents
+ls /home/Users/owner/Documents
+ls /home/owner/Documents
+echo $SHELL
+echo $shell
+whoami
+subl
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/s
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+open .bash_profile 
+cd
+var x = 0;
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+vim .bash_profile 
+subl test.html
+cd codefellows/
+cd Documents
+open .bash_profile
+touch ~/Desktop test.rtf
+/bin/echo $PATH
+open /bin/cat ~/.bash_profile
+edit .bash_profile
+open ~/.bash_profile
+nano .bash_profile
+/bin/cat ~/.bash_profile
+dir
+cat ~/.bash_profile
+sudo ls
+. .bash_profile
+open -e .bash_profile
+touch .bash_profile
+. /etc/profile
+ls [bash]*
+cd /usr/bin/vi ~/.bash_profile
+ls -la
+cd /Users/owner/Desktop
+sublime Desktop/codefellows
+subl Desktop/codefellows
+sublime Desktop/codefellows/
+subl Desktop/codefellows/
+source ~/.bash_profile
+open sublime 
+subl sublime 
+cd local/bin
+cd usr
+cd bin
+cd SharedSupport/
+cd Contents/
+cd Sublime\ Text\ 2.app/
+cd Applications/
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+cd..
+open ~/.bash_profile.
+sudo nano .bash_profile
+subl codefellows
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublim
+sublime .
+subl greeting.html
+greeting.html
+touch greeting.html
+mkdir codefellows
+cd desktop
+ll
+less moving_around.txt 
+subl moving_around.txt 
+nano moving_around.txt 
+cat moving_around.txt 
+history > moving_around.txt
+history | sort | less
+history | sort -less
+history | sort
+history | less
+ls -h
+less -h
+history
+grep -r codefellows ~
+man grep
+grep -r codefellows
+grep man
+grep codefellows
+~
+/
+ls
+cd "Nik Software"
+cd /
+cd Nik \Software
+cd Nik Software
+ls -1
+man ls
+ls -e
+ls -tc
+ls -c
+ls -@
+ls -lr
+ls -rt
+ls -r
+ls -lt
+ls -l
+ls -t
+pwd
+git --version
+echo $PATH
+echo $EDITOR
+echo $ED
+subl ~
+brew doctor
+ls -G
+curl fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'finddeniseonline@gmail.com'
+git config --global user.name 'Denise Barnes'
+brew install git
+git version
+echo $PATH 
+subl /etc/paths
+ls -man
+ls man
+brew update
+uname
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions 
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+git push origin master
+git commit -a -m "updated files"
+git add Tortoise_and_hare_game
+git push origin mast
+git commit -a -m "adding updated Tortoise and hare game files"
+git commit -a -m "adding Tortoise and hare game files"
+cd final
+mv Tortoise_and_hare_game /final
+cp Tortoise_and_hare_game /final
+cp Tortoise_and_hare_game /final/
+cd codefellows
+cd Desktop
+git commit -a -m "html outline assignment"
+git add .
+git ini .
+cd html_outline
+mv html_outline README.rtf ./html_outline/
+mv /html_outline README.rtf /html_outline
+man mv
+mv man
+mv html_outline README.rtf /html_outline
+mv html_outline README.rtf > html_outline
+mv html_outline README.rtf html_outline
+mv html_outline final
+mkdir html_outline
+cat README.md
+ls final
+ls -a
+cd Applications
+cd ~
+open sublime
+open html-and-css-code-samples.zip
+ls less
+ls -l less
+cd Downloads
+git pull origin master
+git commit -a -m "Number Guessing Game"
+git init .
+git config -l
+git remote add origin https://github.com/finddeniseonline/codefellows.git
+cat guessGame.html
+mv test.html guessGame.html
+rm guessGame.html
+mv test.html ./final/
+mv test.html /final/
+cp test.html /final
+cp test.html > ~/final
+cp test.html > ./final
+mv test.html > ./final/guessGame.html
+cat test.html
+mkdir final
+cd ~/Desktop
+cd ~Desktop
+~/.ssh/id_rsa
+ssh-add -l
+eval "$(ssh-agent -s)"
+ssh -T git@github.com
+ssh -vT git@github.com
+ssh -T git@github
+pbcopy < ~/.ssh/id_rsa.pub
+ssh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/20232_rsa
+ssh-keygen -t rsa -C "finddeniseonline@gmail.com"
+ls -al ~/.ssh
+git config --global user.email "finddeniseonline@gmail.com"
+git config --global user.name "Denise Barnes"
+git config --user.name "Denise Barnes"
+fg
+sleep 5 &
+ps aux | grep 'firefox'
+man ps
+ps [aux]
+top
+ls -l | less
+ls -l /etc | less
+cd /etc
+egrep 'or|is|and' touch2
+egrep '[aeiou]{2,}' touch2
+nl -s "." touch2
+nl touch2
+sort touch2
+head -3 touch2
+head touch2
+cd linuxtutorialwork
+ls -l test2
+ls -lh *.???
+ls -lh *.*
+ls -lh /home/*/.bash_history
+ls -lh */.bash_history
+.bash_history
+file *
+file /owner/Desktop*
+file /owner/Desktop
+file /Desktop/*
+cd ..
+ls *[0-9]*
+ls ?e*
+ls t*
+vi touch2
+less touch2
+cat touch2
+cat test2
+touch test2
+vi
+cat test
+vi test
+touch test
+rm -rf testing
+rm testing
+cd testing
+rm foo3
+rm /Desktop/foo3
+cd backups
+mv foo2 backups/foo3
+mkdir backups
+cd ../Desktop
+cd ./Desktop
+cd /Desktop
+cd foo2
+cp -r foo foo2
+cp foo foo2
+mkdir foo2
+mkdir foo
+mddir foo
+man rmdir
+rmdir /testing
+rmdir /Desktop/testing
+rmdir testing
+mkdir -pv testing/foo/bar
+mkdir -pv linuxtutorialwork/foo/bar2
+mkdir -pv linuxtutorialwork/foo/bar
+cd .
+mkdir -p linuxtutorialwork/foo/bar
+mkdir linuxtutorialwork
+cd /var/log
+cd ../../
+ls /Users/owner/Desktop
+ls /Users/ownser/Desktop
+ls /Users/owner/Documents
+ls /Documents
+ls /home/Users/owner/Documents
+ls /home/owner/Documents
+echo $SHELL
+echo $shell
+whoami
+subl
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/s
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+open .bash_profile 
+cd
+var x = 0;
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+vim .bash_profile 
+subl test.html
+cd codefellows/
+cd Documents
+open .bash_profile
+touch ~/Desktop test.rtf
+/bin/echo $PATH
+open /bin/cat ~/.bash_profile
+edit .bash_profile
+open ~/.bash_profile
+nano .bash_profile
+/bin/cat ~/.bash_profile
+dir
+cat ~/.bash_profile
+sudo ls
+. .bash_profile
+open -e .bash_profile
+touch .bash_profile
+. /etc/profile
+ls [bash]*
+cd /usr/bin/vi ~/.bash_profile
+ls -la
+cd /Users/owner/Desktop
+sublime Desktop/codefellows
+subl Desktop/codefellows
+sublime Desktop/codefellows/
+subl Desktop/codefellows/
+source ~/.bash_profile
+open sublime 
+subl sublime 
+cd local/bin
+cd usr
+cd bin
+cd SharedSupport/
+cd Contents/
+cd Sublime\ Text\ 2.app/
+cd Applications/
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+cd..
+open ~/.bash_profile.
+sudo nano .bash_profile
+subl codefellows
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublim
+sublime .
+subl greeting.html
+greeting.html
+touch greeting.html
+mkdir codefellows
+cd desktop
