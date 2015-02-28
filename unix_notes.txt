@@ -1,3 +1,118 @@
+
+GRRRR new notes:
+Unix commands
+
+uname
+
+ls -G
+
+which uname
+
+ls -t - most recently modified files
+
+ls -l  displays files in long format
+
+ls -lt - sorts both long and time (ordered)
+
+ls -r - reverse order
+
+man ls
+
+q - quits manual
+
+if infinite loop CTRL C
+
+ls -1 - one line at a time
+
+ls -S - sorts by size
+ls -a
+ls -X - by file extension
+
+ll displays file size
+
+cd - takes you home
+
+/ takes user to root
+
+.. up one level
+ls .. lists items up one level
+
+examples
+cd ../../Projects/..
+cd ../../Projects/../Music
+
+ctrl U - clears your text at the prompt
+
+clear
+
+command K to bring to top and clear everything
+
+ls ~ - displays items in home directory
+
+. = current working directory
+  example ls . - displays items in current directory
+
+grep command to search a string in current directory example:
+~ $ grep -r codefellows ~
+
+history - shows ALL history
+
+history | less - shows history one page at a time
+
+  -h - help file
+
+  less -h
+
+  history | sort | less = sorts history alphabetically and by page by page
+
+history > moving_around.txt - move history to a new file called moving_around.txt
+
+nano another text editor
+
+subl NEW_FILE_NAME
+
+less can be a path to find contact and can redirect content into a command - example history | less
+
+>> appends info example history >> moving_around.txt
+
+> overwrites file - example
+
+~ $ mv moving_around.txt uge_workshop/
+
+mv source destination
+
+
+
+Git
+
+removes a file or directory - rm -rf FILENAME or DIRECTORY
+
+git init creates staging area
+
+  red x means something is dirty
+
+
+
+commits includes:
+
+  diff - changes
+
+  timestamp
+
+  ID
+
+  message
+
+  signature
+
+
+
+subl .
+
+CTRL SHIFT + F
+
+
+
 history | sort | less
 history | sort -less
 history | sort
@@ -44,7 +159,7 @@ git config --global user.email 'finddeniseonline@gmail.com'
 git config --global user.name 'Denise Barnes'
 brew install git
 git version
-echo $PATH 
+echo $PATH
 subl /etc/paths
 ls -man
 ls man
@@ -53,7 +168,7 @@ uname
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
-fish_update_completions 
+fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 chsh -s /usr/local/bin/fish
 echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
@@ -207,11 +322,11 @@ whoami
 subl
 sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/s
 open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
-open .bash_profile 
+open .bash_profile
 cd
 var x = 0;
 /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
-vim .bash_profile 
+vim .bash_profile
 subl test.html
 cd codefellows/
 cd Documents
@@ -239,8 +354,8 @@ subl Desktop/codefellows
 sublime Desktop/codefellows/
 subl Desktop/codefellows/
 source ~/.bash_profile
-open sublime 
-subl sublime 
+open sublime
+subl sublime
 cd local/bin
 cd usr
 cd bin
@@ -264,10 +379,10 @@ touch greeting.html
 mkdir codefellows
 cd desktop
 ll
-less moving_around.txt 
-subl moving_around.txt 
-nano moving_around.txt 
-cat moving_around.txt 
+less moving_around.txt
+subl moving_around.txt
+nano moving_around.txt
+cat moving_around.txt
 history > moving_around.txt
 history | sort | less
 history | sort -less
@@ -314,7 +429,7 @@ git config --global user.email 'finddeniseonline@gmail.com'
 git config --global user.name 'Denise Barnes'
 brew install git
 git version
-echo $PATH 
+echo $PATH
 subl /etc/paths
 ls -man
 ls man
@@ -323,7 +438,7 @@ uname
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
-fish_update_completions 
+fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 chsh -s /usr/local/bin/fish
 echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
@@ -477,11 +592,11 @@ whoami
 subl
 sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/s
 open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
-open .bash_profile 
+open .bash_profile
 cd
 var x = 0;
 /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
-vim .bash_profile 
+vim .bash_profile
 subl test.html
 cd codefellows/
 cd Documents
@@ -509,8 +624,8 @@ subl Desktop/codefellows
 sublime Desktop/codefellows/
 subl Desktop/codefellows/
 source ~/.bash_profile
-open sublime 
-subl sublime 
+open sublime
+subl sublime
 cd local/bin
 cd usr
 cd bin
